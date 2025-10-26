@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pilar Girón Jordán - GitHub Pages</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      color: #333;
+      text-align: center;
+      padding: 60px;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hola, soy Pilar Girón Jordán</h1>
+  <p>
+    Soy <strong>Técnico Superior en Desarrollo de Aplicaciones Web</strong>.<br>
+    Esta es mi primera página publicada con <strong>GitHub Pages</strong>.
+  </p>
+  <p>
+    Puedes visitar mi perfil aquí:<br>
+    <a href="http://pilargijor@alumnos.ilerna.com/" target="_blank">
+      pilargijor@alumnos.ilerna.com
+    </a>
+  </p>
+</body>
+</html>
